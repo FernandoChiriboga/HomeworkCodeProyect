@@ -1,4 +1,4 @@
-"# HomeworkCodeProyect" 
+"# HomeworkCodeProyect"
 #include<iostream>
 using namespace std;
 void IngresoD(int*,int*);
