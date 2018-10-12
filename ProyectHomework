@@ -3,3 +3,22 @@ Al aire libr
 P Aire Libronerproyecto
 
 Alaba
+IngresoD(&numero,&denominador);
+
+	Calcular(&numero,&denominador,&resultado);
+
+	Imprimir(&resultado);
+
+	if(numero==2*resultado+denominador){
+
+		resultado+=2*denominador;
+
+	}else{
+
+IngresoD(&numero,&denominador);
+	Calcular(&numero,&denominador,&resultado);
+	Imprimir(&resultado);
+	if(numero==2*resultado+denominador){
+		resultado+=2*denominador;
+	}else{
+		resultado
